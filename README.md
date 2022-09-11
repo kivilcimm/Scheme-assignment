@@ -1,6 +1,6 @@
 # Scheme-assignment
 
-In this assignment, there are two txt file. First file includes attribute for each wine and second file includes explanation of attributes. 
+In this assignment, there are two txt file. wine.data.txt file includes attribute for each wine and winenames.txt file includes explanation of attributes. 
 
 a.rkt file includes following tasks:
 
